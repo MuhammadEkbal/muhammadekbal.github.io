@@ -12,7 +12,7 @@ profile:
 news: false
 selected_papers: true
 selected_projects: true
-experience: false
+experience: true 
 social: true
 ---
 
@@ -89,65 +89,3 @@ My research interests include temporal logics, formal languages, and semantics, 
 
   </div>
 </div>
-
-<style>
-.experience-timeline {
-  position: relative;
-  margin: 1.5rem 0 0 0.5rem;
-  padding-left: 1.5rem;
-  border-left: 2px solid var(--global-divider-color);
-}
-
-.experience-item {
-  position: relative;
-  margin-bottom: 2rem;
-}
-
-.experience-item::before {
-  content: "";
-  position: absolute;
-  left: calc(-1.5rem - 6px);
-  top: 0.35rem;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--global-theme-color);
-  border: 2px solid var(--global-bg-color);
-}
-
-.experience-date {
-  margin-bottom: 0.35rem;
-  color: var(--global-text-color-light);
-  font-size: 0.9rem;
-}
-
-.experience-content h3 {
-  margin: 0 0 0.3rem 0;
-  font-size: 1.15rem;
-}
-
-.experience-company {
-  margin-bottom: 0.65rem;
-  font-size: 0.95rem;
-}
-
-.experience-content ul {
-  margin-bottom: 0.5rem;
-}
-
-.experience-content li {
-  margin-bottom: 0.35rem;
-}
-
-@media (min-width: 768px) {
-  .experience-item {
-    display: grid;
-    grid-template-columns: 175px minmax(0, 1fr);
-    column-gap: 1.25rem;
-  }
-
-  .experience-date {
-    padding-top: 0.15rem;
-  }
-}
-</style>
