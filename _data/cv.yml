@@ -1,160 +1,157 @@
 cv:
-name: Muhammad Ekbal Ahmad
-label: Scientific Researcher & Software Developer
-email: it2auto@gmail.com
-location: Hamburg, Germany
-image: ""
-summary: >-
-Scientific researcher and software developer with experience in
-transportation systems, smart grids, frontend development, machine
-learning, formal methods, software specification, and distributed systems.
+  name: Muhammad Ekbal Ahmad
+  label: Scientific Researcher & Software Developer
+  email: it2auto@gmail.com
+  location: Hamburg, Germany
+  image: ""
+  summary: >-
+    Scientific researcher and software developer with experience in
+    transportation systems, smart grids, frontend development, machine
+    learning, formal methods, software specification, and distributed systems.
 
-social_networks:
-- network: LinkedIn
-username: muhammad-ekbal-ahmad-18913b99
+  social_networks:
+    - network: LinkedIn
+      username: muhammad-ekbal-ahmad-18913b99
 
-address:
-street: "Oldachstraße 7"
-city: Hamburg
-region: Hamburg
-postalCode: "22307"
-countryCode: DE
+  address:
+    street: "Oldachstraße 7"
+    city: Hamburg
+    region: Hamburg
+    postalCode: "22307"
+    countryCode: DE
 
-sections:
-Education:
-- institution: Carl von Ossietzky University Oldenburg
-location: Oldenburg, Germany
-url: https://uol.de/
-area: Computer Science
-studyType: M.Sc.
-start_date: "2017"
-end_date: "2020"
-score: ""
-courses: ""
-highlights:
-- >-
-Master's thesis: Transformational Semantics of the Combination
-π-OZ for Mobile Processes with Data.
+  sections:
+    Education:
+      - institution: Carl von Ossietzky University Oldenburg
+        location: Oldenburg, Germany
+        url: https://uol.de/
+        area: Computer Science
+        studyType: M.Sc.
+        start_date: "2017"
+        end_date: "2020"
+        score: ""
+        courses: "Transformational Semantics of the Combination π-OZ for Mobile Processes with Data"
+        highlights:
+          - "Master's thesis"
 
-  - institution: Tishreen University
-    location: Syria
-    area: Computer Science and Automatic Control
-    studyType: B.Sc.
-    start_date: "2003"
-    end_date: "2008"
-    highlights: []
+      - institution: Tishreen University
+        location: Syria
+        area: Computer Science and Automatic Control
+        studyType: B.Sc.
+        start_date: "2003"
+        end_date: "2008"
 
-Experience:
-  - company: OFFIS
-    position: Scientific Researcher (WIMI)
-    location: Oldenburg, Germany
-    start_date: "2020-10"
-    end_date: "Present"
-    summary: >-
-      R&D Division Transportation, working in the transition to the
-      DLR Institute of Systems Engineering for Future Mobility.
-    highlights:
-      - >-
-        ViVre project: Networking virtualized traffic infrastructures
-        and automated driving functions for sustainable mobility solutions.
-      - "Project website: https://www.offis.de/offis/projekt/vivre.html"
+    Experience:
+      - company: OFFIS
+        position: Scientific Researcher (WIMI)
+        location: Oldenburg, Germany
+        start_date: "2020-10"
+        end_date: "Present"
+        summary: >-
+          R&D Division Transportation, working in the transition to the
+          DLR Institute of Systems Engineering for Future Mobility.
+        highlights:
+          - >-
+            ViVre project: Networking virtualized traffic infrastructures
+            and automated driving functions for sustainable mobility solutions.
+          - "Project website: https://www.offis.de/offis/projekt/vivre.html"
 
-  - company: OFFIS
-    position: Research Assistant (WIHI)
-    location: Oldenburg, Germany
-    start_date: "2018-11"
-    end_date: "2020-10"
-    highlights:
-      - >-
-        Designetz project: Developed a web-based GUI for controlling
-        a smart grid.
-      - "Technologies: Angular, D3.js, Graphviz, and Leaflet."
-      - "Project website: https://www.designetz.de/"
+      - company: OFFIS
+        position: Research Assistant (WIHI)
+        location: Oldenburg, Germany
+        start_date: "2018-11"
+        end_date: "2020-10"
+        highlights:
+          - >-
+            Designetz project: Developed a web-based GUI for controlling
+            a smart grid.
+          - "Technologies: Angular, D3.js, Graphviz, and Leaflet."
+          - "Project website: https://www.designetz.de/"
 
-  - company: Project Group RIO
-    position: Frontend Developer
-    location: Oldenburg, Germany
-    start_date: "2018-10"
-    end_date: "2019-09"
-    highlights:
-      - "RIO project: Developed a navigation application."
-      - "Technologies: Angular and Apache Cordova."
-      - "Project website: https://pg-rio.informatik.uni-oldenburg.de/"
+      - company: Project Group RIO
+        position: Frontend Developer
+        location: Oldenburg, Germany
+        start_date: "2018-10"
+        end_date: "2019-09"
+        highlights:
+          - "RIO project: Developed a navigation application."
+          - "Technologies: Angular and Apache Cordova."
+          - "Project website: https://pg-rio.informatik.uni-oldenburg.de/"
 
-  - company: OFFIS
-    position: Research Assistant (WIHI)
-    location: Oldenburg, Germany
-    start_date: "2017-11"
-    end_date: "2018-10"
-    highlights:
-      - >-
-        IKIMUNI project: Developed a desktop GUI for industrial software.
-      - "Technologies: Qt Quick/QML, OPC UA, and C++."
-      - "Project website: https://www.ikimuni.de/"
+      - company: OFFIS
+        position: Research Assistant (WIHI)
+        location: Oldenburg, Germany
+        start_date: "2017-11"
+        end_date: "2018-10"
+        highlights:
+          - >-
+            IKIMUNI project: Developed a desktop GUI for industrial software.
+          - "Technologies: Qt Quick/QML, OPC UA, and C++."
+          - "Project website: https://www.ikimuni.de/"
 
-  - company: HS42 GmbH
-    position: Trainee
-    location: Oldenburg, Germany
-    start_date: "2017-07"
-    end_date: "2017-10"
+      - company: HS42 GmbH
+        position: Trainee
+        location: Oldenburg, Germany
+        start_date: "2017-07"
+        end_date: "2017-10"
 
-Skills:
-  - name: UI Development
-    level: ""
-    icon: fa-solid fa-desktop
-    keywords: "TypeScript, JavaScript, Angular, React, Qt Quick/QML"
+    Skills:
+      - name: UI Development
+        level: ""
+        icon: "fa-solid fa-desktop"
+        keywords: "TypeScript, JavaScript, Angular, React, Qt Quick/QML"
 
-  - name: Machine Learning and Data Analysis
-    level: ""
-    icon: fa-solid fa-brain
-    keywords: "Deep Learning, Neural Networks, Data Mining, Fuzzy Logic"
+      - name: Machine Learning and Data Analysis
+        level: ""
+        icon: "fa-solid fa-brain"
+        keywords: "Deep Learning, Neural Networks, Data Mining, Fuzzy Logic"
 
-  - name: Software Engineering and Formal Methods
-    level: ""
-    icon: fa-solid fa-code
-    keywords: >-
-      Software and Real-Time Requirements, Formalization,
-      Specification Languages (OZ, CSP, Pi Calculus),
-      CSP-OZ Specification Combination, Correctness of Graph Programs
+      - name: Software Engineering and Formal Methods
+        level: ""
+        icon: "fa-solid fa-code"
+        keywords: >-
+          Software and Real-Time Requirements, Formalization,
+          Specification Languages (OZ, CSP, Pi Calculus),
+          CSP-OZ Specification Combination, Correctness of Graph Programs
 
-  - name: Programming Languages and Frameworks
-    level: ""
-    icon: fa-solid fa-laptop-code
-    keywords: "Java EE, EJB, Android, Python, C++, Qt"
+      - name: Programming Languages and Frameworks
+        level: ""
+        icon: "fa-solid fa-laptop-code"
+        keywords: "Java EE, EJB, Android, Python, C++, Qt"
 
-  - name: Databases and Information Systems
-    level: ""
-    icon: fa-solid fa-database
-    keywords: "Oracle, SQL Developer, MongoDB, Information Management in Distributed Systems"
+      - name: Databases and Information Systems
+        level: ""
+        icon: "fa-solid fa-database"
+        keywords: "Oracle, SQL Developer, MongoDB, Information Management in Distributed Systems"
 
-  - name: Application Domains
-    level: ""
-    icon: fa-solid fa-network-wired
-    keywords: "Smart Grids, Smart Cities, Distributed Systems"
+      - name: Application Domains
+        level: ""
+        icon: "fa-solid fa-network-wired"
+        keywords: "Smart Grids, Smart Cities, Distributed Systems"
 
-Languages:
-  - name: Arabic
-    summary: ""
+    Languages:
+      - name: Arabic
+        summary: ""
 
-  - name: English
-    summary: ""
+      - name: English
+        summary: ""
 
-  - name: German
-    summary: ""
+      - name: German
+        summary: ""
 
-Interests:
-  - name: Theoretical Computer Science
-    icon: fa-solid fa-tag
-    keywords: ""
+    Interests:
+      - name: Theoretical Computer Science
+        icon: "fa-solid fa-tag"
+        keywords: ""
 
-  - name: Machine Learning
-    icon: fa-solid fa-tag
-    keywords: ""
+      - name: Machine Learning
+        icon: "fa-solid fa-tag"
+        keywords: ""
 
-  - name: Formal Verification of Distributed Systems
-    icon: fa-solid fa-tag
-    keywords: ""
+      - name: Formal Verification of Distributed Systems
+        icon: "fa-solid fa-tag"
+        keywords: ""
 
-  - name: Novels and Poetry
-    icon: fa-solid fa-book
-    keywords: ""
+      - name: Novels and Poetry
+        icon: "fa-solid fa-book"
+        keywords: ""
