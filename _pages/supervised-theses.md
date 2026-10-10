@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /supervised-theses/
-title: Supervised Theses
+title: Supervised theses
 description: Supervised theses in reverse chronological order.
 nav: true
 nav_order: 5
