@@ -2,20 +2,19 @@ cv:
 name: Muhammad Ekbal Ahmad
 label: Scientific Researcher & Software Developer
 email: it2auto@gmail.com
-phone: "01573 2242420"
 location: Hamburg, Germany
 image: ""
 summary: >-
 Scientific researcher and software developer with experience in
-transportation systems, smart grids, frontend development, formal
-methods, software specification, and distributed systems.
+transportation systems, smart grids, frontend development, machine
+learning, formal methods, software specification, and distributed systems.
 
 social_networks:
 - network: LinkedIn
 username: muhammad-ekbal-ahmad-18913b99
 
 address:
-street: "C/O Paya, Oldachstraße 7"
+street: "Oldachstraße 7"
 city: Hamburg
 region: Hamburg
 postalCode: "22307"
@@ -25,27 +24,35 @@ sections:
 Education:
 - institution: Carl von Ossietzky University Oldenburg
 location: Oldenburg, Germany
+url: https://uol.de/
 area: Computer Science
 studyType: M.Sc.
-start_date: 2017
-end_date: 2020
+start_date: "2017"
+end_date: "2020"
+score: ""
+courses: ""
+highlights:
+- >-
+Master's thesis: Transformational Semantics of the Combination
+π-OZ for Mobile Processes with Data.
 
   - institution: Tishreen University
     location: Syria
     area: Computer Science and Automatic Control
     studyType: B.Sc.
-    start_date: 2003
-    end_date: 2008
+    start_date: "2003"
+    end_date: "2008"
+    highlights: []
 
 Experience:
   - company: OFFIS
     position: Scientific Researcher (WIMI)
     location: Oldenburg, Germany
-    start_date: 2020-10
+    start_date: "2020-10"
+    end_date: "Present"
     summary: >-
-      Research and development in the Transportation division,
-      during its transition to the DLR Institute of Systems
-      Engineering for Future Mobility.
+      R&D Division Transportation, working in the transition to the
+      DLR Institute of Systems Engineering for Future Mobility.
     highlights:
       - >-
         ViVre project: Networking virtualized traffic infrastructures
@@ -55,20 +62,20 @@ Experience:
   - company: OFFIS
     position: Research Assistant (WIHI)
     location: Oldenburg, Germany
-    start_date: 2018-11
-    end_date: 2020-10
+    start_date: "2018-11"
+    end_date: "2020-10"
     highlights:
       - >-
-        Designetz project: Developed a web-based graphical user
-        interface for controlling a smart grid.
+        Designetz project: Developed a web-based GUI for controlling
+        a smart grid.
       - "Technologies: Angular, D3.js, Graphviz, and Leaflet."
       - "Project website: https://www.designetz.de/"
 
   - company: Project Group RIO
     position: Frontend Developer
     location: Oldenburg, Germany
-    start_date: 2018-10
-    end_date: 2019-09
+    start_date: "2018-10"
+    end_date: "2019-09"
     highlights:
       - "RIO project: Developed a navigation application."
       - "Technologies: Angular and Apache Cordova."
@@ -77,90 +84,77 @@ Experience:
   - company: OFFIS
     position: Research Assistant (WIHI)
     location: Oldenburg, Germany
-    start_date: 2017-11
-    end_date: 2018-10
+    start_date: "2017-11"
+    end_date: "2018-10"
     highlights:
       - >-
-        IKIMUNI project: Developed a desktop graphical user interface
-        for industrial software.
+        IKIMUNI project: Developed a desktop GUI for industrial software.
       - "Technologies: Qt Quick/QML, OPC UA, and C++."
       - "Project website: https://www.ikimuni.de/"
 
   - company: HS42 GmbH
     position: Trainee
     location: Oldenburg, Germany
-    start_date: 2017-07
-    end_date: 2017-10
-
-Master's Thesis:
-  - title: >-
-      Transformational Semantics of the Combination π-OZ
-      for Mobile Processes with Data
-    institution: Carl von Ossietzky University Oldenburg
-    start_date: 2019
-    end_date: 2020
+    start_date: "2017-07"
+    end_date: "2017-10"
 
 Skills:
-  - name: User Interface Development
-    keywords:
-      - Angular
-      - React
-      - TypeScript
-      - JavaScript
-      - Qt Quick/QML
+  - name: UI Development
+    level: ""
+    icon: fa-solid fa-desktop
+    keywords: "TypeScript, JavaScript, Angular, React, Qt Quick/QML"
 
   - name: Machine Learning and Data Analysis
-    keywords:
-      - Deep Learning
-      - Neural Networks
-      - Data Mining
-      - Fuzzy Logic
+    level: ""
+    icon: fa-solid fa-brain
+    keywords: "Deep Learning, Neural Networks, Data Mining, Fuzzy Logic"
 
   - name: Software Engineering and Formal Methods
-    keywords:
-      - Software and Real-Time Requirements
-      - Formalization
-      - Specification Languages
-      - Object-Z (OZ)
-      - Communicating Sequential Processes (CSP)
-      - Pi Calculus
-      - CSP-OZ Specification Combination
-      - Correctness of Graph Programs
+    level: ""
+    icon: fa-solid fa-code
+    keywords: >-
+      Software and Real-Time Requirements, Formalization,
+      Specification Languages (OZ, CSP, Pi Calculus),
+      CSP-OZ Specification Combination, Correctness of Graph Programs
 
   - name: Programming Languages and Frameworks
-    keywords:
-      - TypeScript
-      - JavaScript
-      - Angular
-      - React
-      - Java EE
-      - EJB
-      - Android
-      - Python
-      - C++
-      - Qt
+    level: ""
+    icon: fa-solid fa-laptop-code
+    keywords: "Java EE, EJB, Android, Python, C++, Qt"
 
   - name: Databases and Information Systems
-    keywords:
-      - Oracle
-      - SQL Developer
-      - MongoDB
-      - Information Management in Distributed Systems
+    level: ""
+    icon: fa-solid fa-database
+    keywords: "Oracle, SQL Developer, MongoDB, Information Management in Distributed Systems"
 
   - name: Application Domains
-    keywords:
-      - Smart Grids
-      - Smart Cities
-      - Distributed Systems
-      - Software Requirements Engineering
+    level: ""
+    icon: fa-solid fa-network-wired
+    keywords: "Smart Grids, Smart Cities, Distributed Systems"
 
 Languages:
   - name: Arabic
+    summary: ""
+
   - name: English
+    summary: ""
+
   - name: German
+    summary: ""
 
 Interests:
   - name: Theoretical Computer Science
+    icon: fa-solid fa-tag
+    keywords: ""
+
   - name: Machine Learning
+    icon: fa-solid fa-tag
+    keywords: ""
+
   - name: Formal Verification of Distributed Systems
+    icon: fa-solid fa-tag
+    keywords: ""
+
   - name: Novels and Poetry
+    icon: fa-solid fa-book
+    keywords: ""
