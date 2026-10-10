@@ -4,7 +4,7 @@ permalink: /supervised-theses/
 title: Supervised Theses
 description: Supervised theses in reverse chronological order.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 {% include bib_search.liquid %}
 <div class="publications">
