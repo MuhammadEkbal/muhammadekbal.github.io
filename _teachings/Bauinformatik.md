@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Engineering Informatics ("Bauinformatik") - Database systems
+title: Engineering Informatics (Bauinformatik) - Database systems
 description:.
 instructor: Professor Dr. Kay Smarsly
 year: 2023
