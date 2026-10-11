@@ -4,7 +4,7 @@ title: Prescriptive maintenance of road infrastructure coupling multi-view scene
 description:
 img: assets/img/7.jpg
 redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
-importance: 1
+importance: 3
 category: work
 ---
 
