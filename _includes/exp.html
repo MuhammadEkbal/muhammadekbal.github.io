@@ -6,61 +6,135 @@
 
     <div class="experience-items">
 
-      <!-- OFFIS: Current position -->
+      <!-- TUHH-IDAC: Current position -->
       <div class="experience-point">
-        <a href="https://www.offis.de/" target="_blank" rel="noopener noreferrer"
-           class="experience-logo" title="OFFIS">
-          <span class="experience-logo-text">OFFIS</span>
+        <a href="https://www.tuhh.de/idac/de/aktuelles"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="experience-logo"
+           title="TUHH-IDAC">
+          <img src="/assets/image/TUHH-IDAC.png"
+               alt="TUHH-IDAC"
+               class="experience-logo-img">
         </a>
+
         <span class="experience-dot current"></span>
+
         <div class="experience-label">
           <strong>Scientific Researcher</strong>
-          <span>Oct 2020 – Present</span>
-          <small>ViVre Project</small>
+          <span>2021 – Present</span>
+          <small>TUHH-IDAC</small>
         </div>
       </div>
 
-      <!-- OFFIS: Research Assistant -->
+      <!-- OFFIS: Scientific Researcher -->
       <div class="experience-point">
-        <a href="https://www.offis.de/" target="_blank" rel="noopener noreferrer"
-           class="experience-logo" title="OFFIS">
-          <span class="experience-logo-text">OFFIS</span>
+        <a href="https://www.offis.de/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="experience-logo"
+           title="OFFIS">
+          <img src="/assets/image/logo-offis.svg"
+               alt="OFFIS"
+               class="experience-logo-img">
         </a>
+
         <span class="experience-dot"></span>
+
         <div class="experience-label">
-          <strong>Research Assistant</strong>
+          <strong>Scientific Researcher (WIMI)</strong>
+          <span>Oct 2020 – 2021</span>
+          <small>ViVre Project</small>
+        </div>
+
+        <a class="experience-project-link"
+           href="https://www.offis.de/offis/projekt/vivre.html"
+           target="_blank"
+           rel="noopener noreferrer">
+          ViVre Project ↗
+        </a>
+      </div>
+
+      <!-- OFFIS: Research Assistant, Designetz -->
+      <div class="experience-point">
+        <a href="https://www.offis.de/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="experience-logo"
+           title="OFFIS">
+          <img src="/assets/image/logo-offis.svg"
+               alt="OFFIS"
+               class="experience-logo-img">
+        </a>
+
+        <span class="experience-dot"></span>
+
+        <div class="experience-label">
+          <strong>Research Assistant (WIHI)</strong>
           <span>Nov 2018 – Oct 2020</span>
           <small>Designetz Project</small>
         </div>
+
+        <a class="experience-project-link"
+           href="https://www.designetz.de/"
+           target="_blank"
+           rel="noopener noreferrer">
+          Designetz Project ↗
+        </a>
       </div>
 
       <!-- Project Group RIO -->
       <div class="experience-point">
         <a href="https://pg-rio.informatik.uni-oldenburg.de/"
-           target="_blank" rel="noopener noreferrer"
-           class="experience-logo" title="Project Group RIO">
+           target="_blank"
+           rel="noopener noreferrer"
+           class="experience-logo"
+           title="Project Group RIO">
           <span class="experience-logo-text">RIO</span>
         </a>
+
         <span class="experience-dot"></span>
+
         <div class="experience-label">
           <strong>Frontend Developer</strong>
           <span>Oct 2018 – Sep 2019</span>
           <small>Navigation Application</small>
         </div>
+
+        <a class="experience-project-link"
+           href="https://pg-rio.informatik.uni-oldenburg.de/"
+           target="_blank"
+           rel="noopener noreferrer">
+          RIO Project ↗
+        </a>
       </div>
 
-      <!-- OFFIS: Earlier research -->
+      <!-- OFFIS: Research Assistant, IKIMUNI -->
       <div class="experience-point">
-        <a href="https://www.offis.de/" target="_blank" rel="noopener noreferrer"
-           class="experience-logo" title="OFFIS">
-          <span class="experience-logo-text">OFFIS</span>
+        <a href="https://www.offis.de/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="experience-logo"
+           title="OFFIS">
+          <img src="/assets/image/logo-offis.svg"
+               alt="OFFIS"
+               class="experience-logo-img">
         </a>
+
         <span class="experience-dot"></span>
+
         <div class="experience-label">
-          <strong>Research Assistant</strong>
+          <strong>Research Assistant (WIHI)</strong>
           <span>Nov 2017 – Oct 2018</span>
           <small>IKIMUNI Project</small>
         </div>
+
+        <a class="experience-project-link"
+           href="https://www.ikimuni.de/"
+           target="_blank"
+           rel="noopener noreferrer">
+          IKIMUNI Project ↗
+        </a>
       </div>
 
     </div>
@@ -68,12 +142,17 @@
 </div>
 
 <style>
+.experience-section {
+  margin-top: 3rem;
+}
+
 .experience-timeline-horizontal {
   position: relative;
   margin: 2.5rem 0 1rem;
-  padding: 0.5rem 0 1rem;
+  padding: 0.5rem 0 1.5rem;
   overflow-x: auto;
   scrollbar-width: thin;
+  scrollbar-color: var(--global-divider-color) transparent;
 }
 
 .experience-items {
@@ -81,17 +160,18 @@
   justify-content: space-between;
   align-items: flex-start;
   gap: 1.5rem;
-  min-width: 720px;
+  min-width: 850px;
   position: relative;
 }
 
 .experience-track {
   position: absolute;
   top: 38px;
-  left: 7%;
-  right: 7%;
+  left: 8%;
+  right: 8%;
   height: 2px;
   background: var(--global-divider-color);
+  z-index: 0;
 }
 
 .experience-point {
@@ -102,6 +182,7 @@
   align-items: center;
   flex: 1;
   min-width: 145px;
+  max-width: 200px;
   text-align: center;
   gap: 0.65rem;
 }
@@ -110,23 +191,39 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 130px;
   height: 60px;
-  width: 120px;
   text-decoration: none;
 }
 
+.experience-logo-img {
+  max-width: 120px;
+  max-height: 45px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  filter: grayscale(1);
+  opacity: 0.7;
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.experience-logo:hover .experience-logo-img {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
 .experience-logo-text {
-  font-size: 1.35rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
   color: var(--global-text-color);
-  opacity: 0.65;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  opacity: 0.7;
   transition: opacity 0.2s ease, color 0.2s ease;
 }
 
 .experience-logo:hover .experience-logo-text {
-  opacity: 1;
   color: var(--global-theme-color);
+  opacity: 1;
 }
 
 .experience-dot {
@@ -148,14 +245,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.35rem;
-  max-width: 180px;
+  gap: 0.4rem;
+  width: 100%;
   line-height: 1.4;
 }
 
 .experience-label strong {
   font-size: 0.88rem;
   font-weight: 600;
+  color: var(--global-text-color);
 }
 
 .experience-label span {
@@ -168,9 +266,29 @@
   color: var(--global-text-color-light);
 }
 
+.experience-project-link {
+  font-size: 0.78rem;
+  text-decoration: none;
+  color: var(--global-theme-color);
+  margin-top: 0.15rem;
+}
+
+.experience-project-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
+  .experience-timeline-horizontal {
+    margin-top: 1.5rem;
+  }
+
   .experience-items {
     justify-content: flex-start;
+    gap: 1rem;
+  }
+
+  .experience-point {
+    min-width: 150px;
   }
 }
 </style>
