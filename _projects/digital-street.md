@@ -5,7 +5,7 @@ description:
 img: assets/img/7.jpg
 redirect: https://www.tuhh.de/idac/research/digital-roads
 importance: 2
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description:
 img: assets/img/7.jpg
 redirect: https://www.tuhh.de/idac/research/multi-robot-collaboration
 importance: 1
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

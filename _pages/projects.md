@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: Projects, in which I was engaged or to which I provided direct or indirect support, including project-related work, proposal writing, and other associated activities.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Work, Proposal writing support, Other associated activities]
 horizontal: false
 ---
 
