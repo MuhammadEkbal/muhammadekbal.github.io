@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: page
 title: Scientific working in engineering
 description:
 instructor: Professor Dr. Kay Smarsly
