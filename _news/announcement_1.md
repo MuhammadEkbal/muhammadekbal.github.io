@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+On April 22 and 23, 2026, we are hosting the second annual meeting of the DFG Research Unit FOR 5672, "The Information Backbone of Robotized Construction".
