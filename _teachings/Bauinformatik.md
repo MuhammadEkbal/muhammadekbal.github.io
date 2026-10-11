@@ -6,4 +6,5 @@ instructor: Professor Dr. Kay Smarsly
 year: 2023
 term: Spring
 website: https://www.tuhh.de/idac/de/teaching/database-systems
+---
 
