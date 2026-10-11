@@ -1,9 +1,9 @@
 ---
 layout: course
-title: Engineering Informatics (Bauinformatik) - Database
+title: Engineering Informatics ("Bauinformatik") - Database
 description:
 instructor: Professor Dr. Kay Smarsly
-year: 2024
+year: 2023
 term: Spring
 ---
 
