@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 title: Engineering Informatics ("Bauinformatik") - Database
 description:
 instructor: Professor Dr. Kay Smarsly
