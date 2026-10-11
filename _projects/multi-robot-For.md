@@ -4,7 +4,7 @@ title: Multi-robot collaboration for monitoring and inspection of civil engineer
 description:
 img: assets/img/7.jpg
 redirect: https://www.tuhh.de/idac/research/multi-robot-collaboration
-importance: 3
+importance: 1
 category: work
 ---
 
