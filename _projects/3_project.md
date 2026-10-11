@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Prescriptive maintenance of road infrastructure coupling multi-view scene graphs and temporal logic
+description:
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
-importance: 3
+redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
+importance: 1
 category: work
 ---
 
