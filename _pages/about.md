@@ -15,6 +15,7 @@ selected_projects: true
 experience: true 
 social: true
 ---
+{% include exp.html %}
 I am a Software Engineer and researcher interested in the design, development, and verification of reliable software systems.
 
 My research interests include temporal logics, formal languages, and semantics, with a focus on their application to construction robotic.
