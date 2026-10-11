@@ -3,7 +3,8 @@ layout: page
 title: Prescriptive maintenance of road infrastructure coupling multi-view scene graphs and temporal logic
 description:
 img: assets/img/7.jpg
-redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
+#redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
+website: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
 importance: 3
 category: work
 ---
