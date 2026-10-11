@@ -5,6 +5,9 @@ description:
 img: assets/img/7.jpg
 #redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
 website: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
+venue: test
+date: test
+tes: test
 importance: 3
 category: Proposal writing support
 ---
