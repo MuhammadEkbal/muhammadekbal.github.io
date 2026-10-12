@@ -1,0 +1,1 @@
+International Workshop on Intelligent Computing in Engineering (EG-ICE). Glasgow, Scotland, UK, 07/01/2025.
