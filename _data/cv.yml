@@ -14,10 +14,10 @@ cv:
       username: muhammad-ekbal-ahmad-18913b99
 
   address:
-    street: "Oldachstraße 7"
+    street: ""
     city: Hamburg
     region: Hamburg
-    postalCode: "22307"
+    postalCode: ""
     countryCode: DE
 
   sections:
