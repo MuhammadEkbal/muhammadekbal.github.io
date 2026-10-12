@@ -42,18 +42,6 @@ cv:
         end_date: "2008"
 
     Experience:
-      - company: TUHH-IDAC
-        position: Scientific Researcher (WIMI)
-        location: Hamburg, Germany
-        start_date: "2021-10"
-        end_date: "Present"
-        summary: >-
-          Theoretical computer sciences, mathematical logic, formal languages and semantics.
-        highlights:
-          - >-
-            Project: Modeling and design concepts for digital roads.
-          - "Project website: https://www.tuhh.de/idac/de/research/digital-roads"
-
       - company: OFFIS
         position: Scientific Researcher (WIMI)
         location: Oldenburg, Germany
