@@ -9,11 +9,14 @@ profile:
   image: prof_pic.jpg
   address:
 
-news: true
 selected_papers: true
 selected_projects: true
 experience: true 
 social: true
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 #
 ---
 I am a Software Engineer and researcher interested in the design, development, and verification of reliable software systems.
 
