@@ -21,5 +21,6 @@ announcements:
 I am a Software Engineer and researcher interested in the design, development, and verification of reliable software systems.
 
 My research interests include formal languages, ontologies, scene graphs, and temporal logics, with focus on their application to construction robotic. Furthermore, My research interests include integrating structural, geospatial, traffic, and sensor data to develop digital twins of civil infrastructure. In addition, I have  been involved in supervising student assistants and teaching, including leading seminars in the undergraduate module Engineering Informatics ("Bauinformatik"). I also supported teaching activities in the graduate-level module Scientific working in engineering. My other responsibilities included assisting with final examinations and supervising undergraduate and graduate theses.
-
+----
 {% include exp.html %}
+----
