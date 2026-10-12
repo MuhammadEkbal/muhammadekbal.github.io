@@ -14,10 +14,10 @@ cv:
       username: muhammad-ekbal-ahmad-18913b99
 
   address:
-    street: "theeeeee"
+    street: ""
     city: Hamburg
     region: Hamburg
-    postalCode: "111111"
+    postalCode: ""
     countryCode: DE
 
   sections:
