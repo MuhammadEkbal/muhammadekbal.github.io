@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address:
 
-news: false
+news: true
 selected_papers: true
 selected_projects: true
 experience: true 
