@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated Proceedings of the 16th European Conference on Product and Process Modeling (ECPPM). Cardiff, United Kingdom, 09/09/2026.
+Participated in the 16th European Conference on Product and Process Modeling (ECPPM). Cardiff, United Kingdom, 09/09/2026.
