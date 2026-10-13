@@ -15,7 +15,25 @@ cv:
   custom_connections: []
 
   sections:
-    Education: []
+        Education:
+      - institution: Carl von Ossietzky University Oldenburg
+        location: Oldenburg, Germany
+        url: https://uol.de/
+        area: Computer Science
+        studyType: M.Sc.
+        start_date: "2017"
+        end_date: "2020"
+        score: ""
+        courses: "Transformational Semantics of the Combination π-OZ for Mobile Processes with Data"
+        highlights:
+          - "Master's thesis"
+
+      - institution: Tishreen University
+        location: Syria
+        area: Computer Science and Automatic Control
+        studyType: B.Sc.
+        start_date: "2003"
+        end_date: "2008"
 
     Experience:
       - company: TUHH-IDAC
