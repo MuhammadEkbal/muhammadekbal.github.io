@@ -15,7 +15,7 @@ cv:
   custom_connections: []
 
   sections:
-      Education:
+    Education:
       - institution: Carl von Ossietzky University Oldenburg
         location: Oldenburg, Germany
         url: https://uol.de/
