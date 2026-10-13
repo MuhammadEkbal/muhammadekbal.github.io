@@ -11,7 +11,13 @@ cv:
       username: muhammad-ekbal-ahmad-18913b99
     - network: GitHub
       username: muhammadekbal
-
+    - network: ORCID
+      username: 0009-0003-5258-9291
+    - network: ResearchGate
+      username: Muhammad-Ekbal-Ahmad
+    - network: Google Scholar
+      username: qc6CJjYAAAAJ
+ 
   custom_connections: []
 
   sections:
