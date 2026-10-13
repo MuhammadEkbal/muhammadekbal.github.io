@@ -34,7 +34,7 @@ cv:
         studyType: B.Sc.
         start_date: "2003"
         end_date: "2008"
-    Experience:
+  Experience:
       - company: TUHH-IDAC
         position: Scientific Researcher
         location: Hamburg, Germany
