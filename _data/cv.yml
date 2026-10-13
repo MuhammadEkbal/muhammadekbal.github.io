@@ -15,7 +15,7 @@ cv:
   custom_connections: []
 
   sections:
-        Education:
+      Education:
       - institution: Carl von Ossietzky University Oldenburg
         location: Oldenburg, Germany
         url: https://uol.de/
@@ -34,7 +34,6 @@ cv:
         studyType: B.Sc.
         start_date: "2003"
         end_date: "2008"
-
     Experience:
       - company: TUHH-IDAC
         position: Scientific Researcher
