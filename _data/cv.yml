@@ -148,6 +148,14 @@ cv:
         end_date: 2026-10
         url: https://www.tuhh.de/idac/research/digital-roads
 
+      - name: Semi-Probabilistic, Sensor-Based Design Concepts for Intelligent Structural Systems
+        summary: Research project investigating sensor-based design concepts for intelligent structural systems.
+        highlights:
+          - "Project details: https://www.tuhh.de/idac/research/intelligent-structures"
+        start_date: 2021-10-01
+        end_date: 2022-05-31
+        url: https://www.tuhh.de/idac/research/intelligent-structures
+
       - name: ViVre
         summary: Research project associated with scientific work at OFFIS.
         highlights:
