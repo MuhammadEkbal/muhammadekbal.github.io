@@ -94,7 +94,7 @@ cv:
 
 #    Volunteer: []
 
-    Awards: []
+#    Awards: []
 
     Publications: []
 
@@ -121,10 +121,8 @@ cv:
         keywords: "Temporal Logic, Formal Languages, Semantics, Software Systems, Construction Robotics, Cyber-Physical Systems, Digital Twins"
 
     Languages:
-      - name: German
-      - name: English
-      - name: Arabic
-      - name: Kurdish
+     - label: "German | English | Arabic | Kurdish"
+
 
     Interests:
       - name: Research
