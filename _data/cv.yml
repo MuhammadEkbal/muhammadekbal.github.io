@@ -132,6 +132,14 @@ cv:
     Certificates: []
 
     Projects:
+      - name: Multi-Robot Collaboration for Monitoring and Inspection of Civil Engineering Structures
+        summary: Research project on multi-robot collaboration for monitoring and inspecting civil engineering structures.
+        highlights:
+          - "Project details: https://www.tuhh.de/idac/research/multi-robot-collaboration"
+        start_date: 2027-10
+        end_date: present
+        url: https://www.tuhh.de/idac/research/multi-robot-collaboration
+
       - name: ViVre
         summary: Research project associated with scientific work at OFFIS.
         highlights:
