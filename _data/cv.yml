@@ -119,10 +119,8 @@ cv:
 
       - name: Research Interests
         keywords: "Temporal Logic, Formal Languages, Semantics, Software Systems, Construction Robotics, Cyber-Physical Systems, Digital Twins"
-
     Languages:
-     - label: "German | English | Arabic | Kurdish"
-
+      - name: German | English | Arabic | Kurdish
 
     Interests:
       - name: Research
