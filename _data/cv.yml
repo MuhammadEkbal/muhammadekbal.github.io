@@ -136,9 +136,17 @@ cv:
         summary: Research project on multi-robot collaboration for monitoring and inspecting civil engineering structures.
         highlights:
           - "Project details: https://www.tuhh.de/idac/research/multi-robot-collaboration"
-        start_date: 2027-10
+        start_date: 2026-10
         end_date: present
         url: https://www.tuhh.de/idac/research/multi-robot-collaboration
+
+      - name: Modeling and Design Concepts for Digital Roads
+        summary: Research project focused on modeling and design concepts for digital road infrastructure.
+        highlights:
+          - "Project details: https://www.tuhh.de/idac/research/digital-roads"
+        start_date: 2023-10
+        end_date: 2026-10
+        url: https://www.tuhh.de/idac/research/digital-roads
 
       - name: ViVre
         summary: Research project associated with scientific work at OFFIS.
