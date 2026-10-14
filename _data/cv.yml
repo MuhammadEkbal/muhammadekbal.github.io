@@ -137,7 +137,7 @@ cv:
         highlights:
           - "Project details: https://www.tuhh.de/idac/research/multi-robot-collaboration"
         start_date: 2026-10
-        end_date: present
+#        end_date: present
         url: https://www.tuhh.de/idac/research/multi-robot-collaboration
 
       - name: Modeling and Design Concepts for Digital Roads
