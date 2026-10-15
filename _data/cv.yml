@@ -98,6 +98,16 @@ cv:
 
     Publications: []
 
+    Workshops:
+      - name: Staying Calm and Full of Energy — Stress Competence for PhD Candidates
+        date: 2021-11-02
+
+      - name: Introduction to the Rules of Good Scientific Practice
+        date: 2021-11-29
+
+      - name: Perfekt ins Job einsteigen
+        date: 2021-03-03
+
     Skills:
       - name: Programming Languages
         keywords: "C++, JavaScript, TypeScript"
