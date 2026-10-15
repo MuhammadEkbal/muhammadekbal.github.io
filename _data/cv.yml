@@ -99,17 +99,11 @@ cv:
     Publications: []
 
     Workshops:
-      - name: Staying Calm and Full of Energy . Stress Competence for PhD Candidates
-        date: 2021-11-02
+      - bullet: Staying Calm and Full of Energy - Stress Competence for PhD Candidates (2021-11-02)
 
       - bullet: Introduction to the Rules of Good Scientific Practice (2021-11-29)
 
       - bullet: Perfekt ins Job einsteigen (2021-03-03)
-
-      - name: Example workshop
-        date: "November 2, 2021"
-        
-      - bullet: Perfekt ins Job einsteigen (3 March 2021)
 
     Skills:
       - name: Programming Languages
