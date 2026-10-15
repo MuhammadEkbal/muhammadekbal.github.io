@@ -108,6 +108,13 @@ cv:
       - name: Perfekt ins Job einsteigen
         date: 2021-03-03
 
+      - name: Example workshop
+        date: "November 2, 2021"
+        
+      - bullet: Staying Calm and Full of Energy — Stress Competence for PhD Candidates (2 November 2021)
+      - bullet: Introduction to the Rules of Good Scientific Practice (29 November 2021)
+      - bullet: Perfekt ins Job einsteigen (3 March 2021)
+
     Skills:
       - name: Programming Languages
         keywords: "C++, JavaScript, TypeScript"
