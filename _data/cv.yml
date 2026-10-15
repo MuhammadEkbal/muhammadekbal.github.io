@@ -201,3 +201,5 @@ cv:
         end_date: 2018-10
 
     References: []
+design:
+  theme: harvard
