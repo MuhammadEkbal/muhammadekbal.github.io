@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modeling and design concepts for digital roads
-description:[Learn more about the project on the TUHH website](https://www.tuhh.de/idac/research/digital-roads)
+description: '[Learn more on the TUHH website](https://www.tuhh.de/idac/research/digital-roads)'
 img: assets/img/project-digital-streeet.jpg
 #redirect: https://www.tuhh.de/idac/research/digital-roads
 website: https://www.tuhh.de/idac/research/digital-roads
