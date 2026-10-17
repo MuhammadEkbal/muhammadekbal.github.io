@@ -3,7 +3,7 @@ layout: page
 title: Modeling and design concepts for digital roads
 description:
 img: assets/img/project-digital-streeet.jpg
-redirect: https://www.tuhh.de/idac/research/digital-roads
+#redirect: https://www.tuhh.de/idac/research/digital-roads
 importance: 2
 category: Work
 ---
