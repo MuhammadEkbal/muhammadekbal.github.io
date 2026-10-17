@@ -27,6 +27,52 @@
         </div>
       </div>
 
+
+
+<!-- TUHH-IDAC: Current position -->
+<div class="experience-point">
+  <a href="https://www.tuhh.de/idac/de/aktuelles"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="experience-logo"
+     title="TUHH-IDAC">
+    <img src="/assets/img/TUHH-IDAC.png"
+         alt="TUHH-IDAC"
+         class="experience-logo-img">
+  </a>
+
+  <span class="experience-dot current"></span>
+
+  <div class="experience-label">
+    <strong>Scientific Researcher</strong>
+    <span>2021 – Present</span>
+    <small>TUHH-IDAC</small>
+  </div>
+
+  <div class="experience-projects">
+    <a class="experience-project-link"
+       href="https://www.tuhh.de/idac/research/multi-robot-collaboration"
+       target="_blank"
+       rel="noopener noreferrer">
+      Multi-Robot Collaboration for Monitoring and Inspection of Civil Engineering Structures ↗
+    </a>
+
+    <a class="experience-project-link"
+       href="https://www.tuhh.de/idac/research/digital-roads"
+       target="_blank"
+       rel="noopener noreferrer">
+      Modeling and Design Concepts for Digital Roads ↗
+    </a>
+
+    <a class="experience-project-link"
+       href="https://www.tuhh.de/idac/research/intelligent-structures"
+       target="_blank"
+       rel="noopener noreferrer">
+      Semi-Probabilistic, Sensor-Based Design Concepts for Intelligent Structural Systems ↗
+    </a>
+  </div>
+</div>
+
       <!-- OFFIS: Scientific Researcher -->
       <div class="experience-point">
         <a href="https://www.offis.de/"
@@ -289,5 +335,29 @@
   .experience-point {
     min-width: 150px;
   }
+}
+
+.experience-projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  width: 100%;
+  margin-top: 0.25rem;
+}
+
+.experience-project-link {
+  display: block;
+  max-width: 190px;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  text-align: center;
+  text-decoration: none;
+  color: var(--global-theme-color);
+  overflow-wrap: anywhere;
+}
+
+.experience-project-link:hover {
+  text-decoration: underline;
 }
 </style>
