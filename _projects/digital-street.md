@@ -18,11 +18,13 @@ category: Work
 </div>
 ----
 
+----
 ## Related Publications
 
 {% reference peralta2026digital %}
 {% reference smarsly2024digital %}
 {% reference alnasser2024digital %}
+----
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
