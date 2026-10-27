@@ -6,7 +6,7 @@ img: assets/img/7.jpg
 #redirect: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
 website: https://www.tuhh.de/idac/research/maintenance-of-road-infrastructure
 importance: 3
-category: Proposal writing support
+category: Other associated activities
 ---
 
 Every project has a beautiful feature showcase page.
